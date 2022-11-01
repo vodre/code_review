@@ -4,7 +4,8 @@
 #### Implementation Notes: 
 > Please include any known by-products of the change or things to look out for (delete section if none)
 
-#### Screenshots/Videos 
+#### Screenshots/Videos:
+![device-2022-11-01-102555 (1)](https://user-images.githubusercontent.com/7502465/199286806-da1d7e05-c545-4cbf-89d0-837c7d6cfcd0.gif)
 
 #### Checklist:
 - [ ] I have tested the code
