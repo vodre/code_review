@@ -1,5 +1,5 @@
-#### Card Link:
-[CARD_LINK](https://trello.com/c/tsRfVeDG)
+#### Trello:
+[TRELLO_LINK](https://trello.com/c/tsRfVeDG)
 
 #### Implementation Notes: 
 > Please include any known by-products of the change or things to look out for (delete section if none)
