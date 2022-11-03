@@ -13,7 +13,8 @@
 - [ ] Tablet
 - [ ] Foldable
 
-## Any dependencies? 
+## Any new dependencies? 
+material3 - www.android.com/material3
 // If positive, please add the link for the documentation.
 
 ## Describe alternatives you've considered: (optional)
