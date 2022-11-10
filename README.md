@@ -1,9 +1,9 @@
 # Name of the feature
 
-[//]: <> (Add the Trello CARD ID or Jira Ticket for more context)
+[//]: <> (Add the Trello CARD ID or Jira Ticket for more context, delete the one that is not used)
 
-[TRELLO_CARD](https://trello.com/c/TRELLO_CARD_ID)
-[JIRA_TICKET](https://jira.oraclecorp.com/jira/browse/JIRA_TICKET_ID)
+- [TRELLO_CARD](https://trello.com/c/TRELLO_CARD_ID)
+- [JIRA_TICKET](https://jira.oraclecorp.com/jira/browse/JIRA_TICKET_ID)
 
 #### Describe the solution you have implemented: 
 > Please include any known by-products of the change or things to look out for
