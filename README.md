@@ -1,15 +1,15 @@
-# Name of the feature
+# [Feature Name]
 
 [//]: <> (Add the Trello CARD ID or Jira Ticket for more context, delete the one that is not used)
 
 - [TRELLO_CARD](https://trello.com/c/TRELLO_CARD_ID)
 - [JIRA_TICKET](https://jira.oraclecorp.com/jira/browse/JIRA_TICKET_ID)
 
-#### Describe the solution you have implemented: 
+## Describe the solution you have implemented: 
 > Please include any known by-products of the change or things to look out for
 
-#### Screenshots/Videos: (optional)
-![device-2022-11-01-102555 (1)](https://user-images.githubusercontent.com/7502465/199286806-da1d7e05-c545-4cbf-89d0-837c7d6cfcd0.gif)
+## Screenshots/Videos: (optional)
+[//]: <> (Drag and Drop an Screenshot or GIF File)
 
 #### What type of device does your feature request apply to?
 - [ ] Phone
@@ -18,8 +18,8 @@
 
 #### Any new dependencies? 
 [//]: <> (If positive, please add the link for the documentation. Answer N/A if none.)
-- Material 3 - www.android.com/material3
-- Retrofit - https://github.com/square/retrofit (https://square.github.io/retrofit/)
+- [Dependency 1](DEPENDENCY_1_URL)
+- [Dependency 2](DEPENDENCY_2_URL)
 
 #### Describe alternatives you've considered: (optional)
 > Detail other possible solutions you were considering.
@@ -36,6 +36,7 @@
 
 #### Reviewer Checklist:
 - [ ] Code Review
+  * [ ] Run the branch on my local and verify is not crashing 
   * [ ] Review Comments Addressed
   * [ ] Coding Standards Applied
   * [ ] Security Coding Standards Followed
@@ -45,3 +46,5 @@
 #### Required documentation updates:
 - [ ] Readme
 - [ ] Confluence
+
+[Confluence Link](CONFLUENCE_PAGE_URL) (remove if N/A)
